@@ -4,39 +4,16 @@
       "&3[&2Please help me i cant code and this is torture&3]",
       "&3[&2Cringe&3]"
     ],
-    "Booster": [
-      "&5[&dBooster&5]",
-      "&5[&dB&5]"
-    ],
-    "ResourceCreator": [
-      "&1[&9Resource Creator&1]",
-      "&1[&9RC&1]"
-    ],
-    "cool": [
-      "&9[&5Cool&9]",
-      "&9[&5C&9]"
-    ],
-    "nacrt": [
-      "&a[nacrt]",
-      "&a[nacrt]"
-    ],
-    "micro": [
-      "&b[&dAnime &9Girl &3Enthusiast&b]",
-      "&b[&6Weeb&b]"
-    ],
-    "lisena": [
-      "&6[&2Pirate Queen&6]",
-      "&6[&2Pirate&6]"
-    ],
-    "juni": [
-      "&d[&2Bird Manager&d]",
-      "&d[&2birb&d]"
-    ]
+    "Booster": ["&5[&dBooster&5]", "&5[&dB&5]"],
+    "ResourceCreator": ["&1[&9Resource Creator&1]", "&1[&9RC&1]"],
+    "cool": ["&9[&5Cool&9]", "&9[&5C&9]"],
+    "nacrt": ["&a[nacrt]", "&a[nacrt]"],
+    "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]", "&b[&6Weeb&b]"],
+    "lisena": ["&6[&2Pirate Queen&6]", "&6[&2Pirate&6]"],
+    "juni": ["&d[&2Bird Manager&d]", "&d[&2birb&d]"]
   },
   "perms": {
-    "cringe": [
-      "ffe0706ebdb24557930b9aa2d10bc383"
-    ],
+    "cringe": ["ffe0706ebdb24557930b9aa2d10bc383"],
     "Booster": [
       "02a5344bf7324c419fc4d2c40c333273",
       "1118575a9d784b28884858023e997bc9",
@@ -56,9 +33,7 @@
       "e4a535e6f213495f8d0a31498ac59b0a",
       "eb06b60dbb3847a9b4568a0f5ccecee5"
     ],
-    "ResourceCreator": [
-      "90a8ada254224c6593d20994ba5bbc8d"
-    ],
+    "ResourceCreator": ["90a8ada254224c6593d20994ba5bbc8d"],
     "cool": [
       "796deff1f7d04a858908fe69141bfe90",
       "16bfa19d62a44083801529911e3a9c09",
@@ -66,18 +41,10 @@
       "e725ace37e2c414282cee1ea96678a49",
       "1f2db798cf95470d9a99da66451eebc8"
     ],
-    "nacrt": [
-      "66c86bdcff6641b9a874b8c0099b410e"
-    ],
-    "micro": [
-      "ad371f407c8144c0bea559fdf019384f"
-    ],
-    "lisena": [
-      "f1dfad19e2024b199d5575a2b0851e3d"
-    ],
-    "juni": [
-      "58c2ae0e17734cd3bd530316367964c8"
-    ]
+    "nacrt": ["66c86bdcff6641b9a874b8c0099b410e"],
+    "micro": ["ad371f407c8144c0bea559fdf019384f"],
+    "lisena": ["f1dfad19e2024b199d5575a2b0851e3d"],
+    "juni": ["58c2ae0e17734cd3bd530316367964c8"]
   },
   "whitelist": false,
   "whitelisted": [
