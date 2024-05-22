@@ -1,2 +1,2 @@
-# SCA-Data
-Data used by sca for some features
+# SCC-Data
+Data used by SkyClientCosmetics for some features
