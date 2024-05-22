@@ -1,59 +1,48 @@
 {
    "tags": {
-      "cringe":["&3[&2Please help me i cant code and this is torture&3]","&3[&2Cringe&3]"],
-      "Booster":["&5[&dBooster&5]","&5[&dB&5]"],
-      "ResourceCreator": ["&1[&9Resource Creator&1]","&1[&9RC&1]"],
-      "cool": ["&9[&5Cool&9]","&9[&5C&9]"],
-      "nacrt":["&a[nacrt]","&a[nacrt]"],
-      "micro": ["&b[&dAnime &9Girl &3Enthusiast&b]","&b[&6Weeb&b]"],
-      "lisena": ["&6[&2Pirate Queen&6]","&6[&2Pirate&6]"],
-      "juni": ["&d[&2Bird Manager&d]","&d[&2birb&d]"]
+      "cringe": [
+         "&3[&2Please help me i cant code and this is torture&3]",
+         "&3[&2Cringe&3]"
+      ],
+      "Booster": [
+         "&5[&dBooster&5]",
+         "&5[&dB&5]"
+      ],
+      "ResourceCreator": [
+         "&1[&9Resource Creator&1]",
+         "&1[&9RC&1]"
+      ],
+      "cool": [
+         "&9[&5Cool&9]",
+         "&9[&5C&9]"
+      ],
+      "nacrt": [
+         "&a[nacrt]",
+         "&a[nacrt]"
+      ],
+      "micro": [
+         "&b[&dAnime &9Girl &3Enthusiast&b]",
+         "&b[&6Weeb&b]"
+      ],
+      "lisena": [
+         "&6[&2Pirate Queen&6]",
+         "&6[&2Pirate&6]"
+      ],
+      "juni": [
+         "&d[&2Bird Manager&d]",
+         "&d[&2birb&d]"
+      ]
    },
    "perms": {
       "cringe": [
          "ffe0706ebdb24557930b9aa2d10bc383"
       ],
       "Booster": [
-         "b7e308955e084d199dd5a1e9717f2261", 
-         "7d3de40c7b9d4b569dba6658864ff6c3",
-         "cd911f52886e447b98246d0de4baf25a",
-         "b5e3a3dfc9b44b54bd6c6d2701105f90",
-         "b1c585fb500748f7bcebba4061852520",
-         "661d27ec0d4e4128809aa218697523b2",
-         "76d4ef1ac4364c508a2b95bdeb72b623",
-         "ed8893d9489b4b629aa1d3f0dda20e0a",
-         "ba57ff6fe6074eeb82e2c985b3cd44e0",
-         "bd082a55373e4305bee348b9060e16c9",
-         "178a4ecf4da24e989e56db0c3dc8a7f2",
-         "57e5a68768714faa843d0fe1f2ef5f30",
-         "6c0c19b0d2554f6eba6c8e4ab5895e7b",
-         "cbd980fe94564ded96139e473f27f003",
-         "7ff1645be4a04869a70cc940559f1e87",
-         "bb6fcb371dee4ca383f9ff31cca65cae",
-         "9d8c370647864b71881cc825b60280e8",
-         "d14ad8df6c77483d88e92fe8d933811e",
-         "b2df292763d14dbdbbffc6c24911b8b8",
-         "5a4ed0b8ee934c2194fa54c9d60e6869",
-         "67931c28035b45d0a336a17cec96f15a",
-         "08559992293a4c06a761fa0c06658e07",
-         "9bbf633a599d4772b773dfaa84e0e7d9",
-         "13f5a2a4f1484ed899647a15e2e16630",
-         "39030cf5d9e84312903a3a8c105f6171",
-         "ad95064f44bb4a219ee88f6e70e250f1",
-         "e725ace37e2c414282cee1ea96678a49",
-         "f18b80bbf92c4632bff137291e3f1960",
-         "fea7a842a28d4916b059ee286311f12e",
-         "091d2b8289d849d8aee78edb42ca90d5",
-         "ea168d06aa2345d58bdbc2d904219f74",
-         "b313cc6829e54f18a7fa7ef86aa2e4ff",
-         "5f2250d3bb124f9b929b3a4ba76ef19d",
-         "212b74dc24c84f179aed5242c791ac38",
-         "4f81785e57784b2088a00e26688a492e",
-         "db5f6a9ba3984dbab66033f3574d89cd",
-         "b71c93bbd970475cb78e0d74ca899769",
-         "0e9360bac3c14a0eafd6cb2f5d9569b7",
+         "309b673228e648968c70ba032512774d",
+         "545a3887b68e410fb1eeb57f689c6c76",
+         "a7b6af8dfab74ec0acb52f241a871404",
          "b039ef1e4ab8471db32cb2d4312a4261",
-         "545a3887b68e410fb1eeb57f689c6c76"
+         "e4a535e6f213495f8d0a31498ac59b0a"
       ],
       "ResourceCreator": [
          "90a8ada254224c6593d20994ba5bbc8d"
@@ -71,10 +60,14 @@
       "micro": [
          "ad371f407c8144c0bea559fdf019384f"
       ],
-      "lisena": ["f1dfad19e2024b199d5575a2b0851e3d"],
-      "juni": ["58c2ae0e17734cd3bd530316367964c8"]
+      "lisena": [
+         "f1dfad19e2024b199d5575a2b0851e3d"
+      ],
+      "juni": [
+         "58c2ae0e17734cd3bd530316367964c8"
+      ]
    },
-   "whitelist":false,
+   "whitelist": false,
    "whitelisted": [
       "ffe0706ebdb24557930b9aa2d10bc383",
       "94003a39360f4763b0d6c28c164ec917",
